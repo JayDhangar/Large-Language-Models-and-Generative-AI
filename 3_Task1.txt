@@ -1,0 +1,5 @@
+GPT -Text Generator
+Bert -Text Classification(positive or negative response in percentage)
+BLOOM — multilingual text generation, translations
+Falcon-7B — question answer, summarization
+Llama-3 — chatbot, reasoning and problem solving 
